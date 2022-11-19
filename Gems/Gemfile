@@ -1,0 +1,2 @@
+#esse arquivo serve para instalar varias gems de uma vez atraves do bundell
+# gem seila, 1.0.0 -> colocar a gem dessa forma significa que quero usar a gem na versão 1.0.0
