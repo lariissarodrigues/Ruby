@@ -1,3 +1,2 @@
 #Variaveis e Versões do Ruby
-# Tipos de variavél:
-#sei la
+# Tipos de variavél: Integer, Float, Boolean, String, Array
